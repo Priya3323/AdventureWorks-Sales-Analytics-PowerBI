@@ -113,16 +113,16 @@ IT Vedant
 ## 🖼️ Dashboard Preview
 
 ### 1. Project Overview
-![Project Overview](screenshots/01-project-overview.png)
+![Project Overview](./screenshots/01-project-overview.jpeg)
 
 ### 2. Executive Dashboard
-![Executive Dashboard](screenshots/02-executive-dashboard.png)
+![Executive Dashboard](./screenshots/02-executive-dashboard.jpeg)
 
 ### 3. Customer & Product Analysis
-![Customer & Product Analysis](screenshots/03-customer-product-analysis.png)
+![Customer & Product Analysis](./screenshots/03-customer-product-analysis.jpeg)
 
 ### 4. Product Returns & Quality Analysis
-![Returns & Quality Analysis](screenshots/04-returns-quality-analysis.png)
+![Returns & Quality Analysis](./screenshots/04-returns-quality-analysis.jpeg)
 
 ### 5. Customer Demographics & Segmentation
-![Customer Demographics & Segmentation](screenshots/05-customer-segmentation.png)
+![Customer Segmentation](./screenshots/05-customer-segmentation.jpeg)
