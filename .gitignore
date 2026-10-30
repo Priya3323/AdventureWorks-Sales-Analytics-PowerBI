@@ -1,0 +1,7 @@
+*.tmp
+*.temp
+*.bak
+*.pbix.autosave
+.DS_Store
+Thumbs.db
+desktop.ini
