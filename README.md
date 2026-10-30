@@ -74,6 +74,20 @@ Analyses customers by age group, gender, education level and occupation.
 - Product analysis highlights the leading products and categories by order quantity.
 - Return analysis helps identify product and geographical patterns in returned quantities.
 
+  ## 💡 Business Recommendations
+
+Based on the analysis, the following recommendations can help improve business performance:
+
+1. **Monitor Order Trends:** Track yearly order quantity to understand business growth patterns and support better sales planning.
+
+2. **Focus on High-Performing Products:** Identify top-selling products and ensure their availability through effective inventory management.
+
+3. **Improve Customer Engagement:** Use customer demographic insights such as age, gender, education and occupation to plan more targeted marketing campaigns.
+
+4. **Monitor Product Returns:** Regularly review products with higher return quantities to identify potential quality or customer satisfaction issues.
+
+5. **Strengthen Regional Strategies:** Analyse country-wise customer distribution to identify regions that may benefit from focused marketing and customer engagement activities.
+
 ## 📁 Repository Structure
 
 ```text
