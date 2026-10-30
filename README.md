@@ -125,6 +125,8 @@ IT Vedant
 *This project was developed as part of my Data Science and Analytics learning journey to strengthen practical skills in Power BI, data analysis and business intelligence.*
 
 ## 🖼️ Dashboard Preview
+### 6. Data Model
+![Data Model](./Screenshots/06-data-model.png)
 
 ### 1. Project Overview
 ![Project Overview](./Screenshots/01-project-overview.jpeg)
