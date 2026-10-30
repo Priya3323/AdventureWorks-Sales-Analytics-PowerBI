@@ -109,3 +109,20 @@ IT Vedant
 ---
 
 *This project was developed as part of my Data Science and Analytics learning journey to strengthen practical skills in Power BI, data analysis and business intelligence.*
+
+## 🖼️ Dashboard Preview
+
+### 1. Project Overview
+![Project Overview](screenshots/01-project-overview.png)
+
+### 2. Executive Dashboard
+![Executive Dashboard](screenshots/02-executive-dashboard.png)
+
+### 3. Customer & Product Analysis
+![Customer & Product Analysis](screenshots/03-customer-product-analysis.png)
+
+### 4. Product Returns & Quality Analysis
+![Returns & Quality Analysis](screenshots/04-returns-quality-analysis.png)
+
+### 5. Customer Demographics & Segmentation
+![Customer Demographics & Segmentation](screenshots/05-customer-segmentation.png)
